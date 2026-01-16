@@ -1,4 +1,4 @@
-# 🎓 College Practice & Assignment Work
+# 🎓 Automation Testing Training
 > **Course:** Computer Science / Java Programming | **Branch:** `assignment-work`
 
 <p align="left">
